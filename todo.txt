@@ -1,0 +1,13 @@
+Update terminology
+
+Balance component
+Income Expenses component
+Environment Variables to call apis instead of direct calls in each request
+Setup id based http-method's requests with mongodb in react projects *
+Fetch/list method not working due to component map() setup *
+Add method not working due to global state request header configuration *
+Delete method not working due to id *
+Edit method 
+-------------------------------------------
+
+Add, Delete & list/fetch methods are working for api
