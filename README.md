@@ -15,9 +15,9 @@ yarn build
 
 # Todo
 
-> Use Graphql schema on a New branch
-> Environment Variables to call apis instead of direct calls in each request
-> Edit method - To update existing data on backend
+* Use Graphql schema on a New branch
+* Environment Variables to call apis instead of direct calls in each request
+* Edit method - To update existing data on backend
 -------------------------------------------
 
-* Add, Delete & list/fetch methods are working for api
+> Add, Delete & list/fetch methods are working for api
